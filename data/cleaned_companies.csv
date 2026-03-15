@@ -1,0 +1,249 @@
+model,year,body_style,platform,bev,manufacturer,country
+Abarth 500e,2023,Hatchback,,No,Stellantis,Italy
+Abarth 600e,2024,Crossover SUV,"eCMP, CMP",No,Stellantis,Italy
+Aletra L8,2025,MPV,Unknown,Yes,Aletra(produced byGeely),Indonesia
+Alfa Romeo Junior,2024,Crossover SUV,"eCMP, CMP",No,Stellantis,Italy
+Alpine A290,2024,Hatchback,AmpR Small,Yes,Alpine/Renault,France
+Audi e-tron GT,2021,Sedan,J1[2],Yes,Audi,Germany
+Audi A6 e-tron,2024,Sedan and Station wagon,PPE,Yes,Audi,Germany
+Audi Q4 e-tron,2021,Crossover SUV,MEB[3],Yes,Audi,Germany
+Audi Q6 e-tron,2024,Crossover SUV,PPE,Yes,Audi,Germany
+BMW i4,2021,Liftback,CLAR[4],No,BMW,Germany
+BMW i5,2023,Sedan,CLAR,No,BMW,Germany
+BMW i5 Touring,2024,Station wagon,CLAR,No,BMW,Germany
+BMW i7,2022,Sedan,CLAR,No,BMW,Germany
+BMW iX,2021,Crossover SUV,iX[5],Yes,BMW,Germany
+BMW iX1,2022,Crossover SUV,UKL2,No,BMW,Germany
+BMW iX2,2023,Crossover SUV,UKL2,No,BMW,Germany
+Cadillac Celestiq,2024,Liftback,BEV3,Yes,General Motors,United States
+Cadillac Escalade IQ,2024,SUV,BT1,Yes,General Motors,United States
+Cadillac Lyriq,2022,Crossover SUV,BEV3[6],Yes,General Motors,United States
+Cadillac Optiq,2023,Crossover SUV,BEV3,Yes,General Motors,United States
+Cadillac Vistiq,2025,Crossover SUV,BEV3,Yes,General Motors,United States
+Chevrolet Blazer EV,2023,Crossover SUV,BEV3,Yes,General Motors,United States
+Chevrolet Bolt,2025,Crossover SUV,BEV2,Yes,General Motors,United States
+Chevrolet Captiva EV,2025,Crossover SUV,Tianyu D,No,General Motors(produced bySAIC-GM-Wuling),United States
+Chevrolet Equinox EV,2024,Crossover SUV,BEV3,Yes,General Motors,United States
+Chevrolet Express Max EV,2025,Van,,No,General Motors(produced bySAIC Motor),United States
+Chevrolet Silverado EV,2023,Pickup truck,BT1,Yes,General Motors,United States
+Chevrolet Spark EUV,2025,Mini SUV,Tianyu M,Yes,General Motors(produced bySAIC-GM-Wuling),United States
+Chevrolet Spark EV,2022,Microcar hatchback,GSEV,Yes,General Motors(produced bySAIC-GM-Wuling),United States
+CMC E300,2018,Van and Truck,,No,CMC,Taiwan
+CMC ET35,2025,Truck,,Yes,CMC,Taiwan
+Citroën e-Berlingo,2021,Van,EMP2,No,Stellantis,France
+Citroën ë-C3 (Europe),2023,Hatchback,Smart Car,No,Stellantis,France
+Citroën ë-C3 (India),2023,Hatchback,Smart Car,No,Stellantis,France
+Citroën ë-C3 Aircross (Europe),2024,Crossover SUV,Smart Car,No,Stellantis,France
+Citroën ë-C4,2021,Crossover SUV,eCMP,No,Stellantis,France
+Citroën ë-C4 X,2022,Crossover SUV,eCMP,No,Stellantis,France
+Citroën ë-C5 Aircross,2025,Crossover SUV,STLA Medium,No,Stellantis,France
+Citroën ë-Jumper/Relay,2021,Van,,No,Stellantis,France
+Citroën ë-Jumpy/Dispatch/SpaceTourer,2021,Van,EMP2,No,Stellantis,France
+Cupra Born,2021,Hatchback,MEB,Yes,SEAT,Spain
+Cupra Tavascan,2023,Crossover SUV,MEB,Yes,SEAT,Spain
+Daihatsu eHijet Cargo/eAtral,2026,Van/microvan,DNGA,No,Toyota,Japan
+DS 3 Crossback E-Tense,2019,Crossover SUV,eCMP,No,Stellantis,France
+DS N°4,2025,Hatchback,EMP2 V3,No,Stellantis,France
+DS N°8,2025,Crossover SUV,STLA Medium,Yes,Stellantis,France
+Dodge Charger Daytona,2024,Liftback,STLA Large,No,Stellantis,United States
+Dacia Spring Electric,2021,Hatchback,CMFA-EV[7],No,Dacia/Renault,Romania
+Faraday Future FF 91,2023,Crossover SUV,,Yes,Faraday Future,United States
+Fiat E-Ducato,2021,Van,,No,Stellantis,Italy
+Fiat E-Scudo,2022,Van,EMP2,No,Stellantis,Italy
+Fiat E-Ulysse,2022,MPV/minivan,EMP2,No,Stellantis,Italy
+Fiat 500e,2020,Hatchback,,Yes,Stellantis,Italy
+Fiat 600e,2023,Crossover SUV,"eCMP, CMP",No,Stellantis,Italy
+Fiat Grande Panda,2024,Hatchback,Smart Car,No,Stellantis,Italy
+Ford Capri EV,2024,Crossover SUV,MEB,Yes,Ford,United States
+Ford E-Tourneo Custom,2023,MPV/minivan,Ford Pro,No,Ford,United States
+Ford E-Transit,2021,Van,,No,Ford,United States
+Ford E-Transit Courier,2023,Van,Ford Global B-car,No,Ford,United States
+Ford E-Transit Custom,2023,Van,Ford Pro,No,Ford,United States
+Ford Mustang Mach-E,2020,Crossover SUV,GE1[8],Yes,Ford,United States
+Ford Explorer EV,2024,Crossover SUV,MEB,Yes,Ford,United States
+Ford Puma Gen-E,2024,Crossover SUV,Ford Global B-car,No,Ford,United States
+Foxtron Bria,2025,Crossover SUV,Foxtron MIH,Yes,Foxtron,Taiwan
+Foxtron Model C,2023,Crossover SUV,Foxtron MIH,Yes,Foxtron,Taiwan
+Genesis Electrified G80,2021,Sedan,M3,No,Genesis Motor,South Korea
+Genesis Electrified GV70,2022,Crossover SUV,M3,No,Genesis Motor,South Korea
+Genesis GV60,2021,Crossover SUV,E-GMP[9],Yes,Genesis Motor,South Korea
+GMC Sierra EV,2023,Pickup truck,BT1,Yes,General Motors,United States
+GMC Hummer EV,2022,Pickup truck andSUV,BT1[10],Yes,General Motors,United States
+Honda e:Ny1/e:N1,2023,Crossover SUV,e:N Architecture F,No,Honda,Japan
+Honda e:N2/Insight,2026,Crossover SUV,e:N Architecture F,Yes,Honda,Japan
+Honda N-One e:,2025,hatchback,,No,Honda,Japan
+Honda N-Van e:,2024,Microvan,,No,Honda,Japan
+Honda Prologue,2023,Crossover SUV,BEV3,Yes,Honda(produced byGeneral Motors),Japan
+Hyundai Casper Electric/Inster,2024,Hatchback,Hyundai-Kia K1 BEV,No,Hyundai,South Korea
+Hyundai Creta Electric,2025,Crossover SUV,Hyundai-Kia K2 BEV,No,Hyundai,South Korea
+Hyundai Elexio,2025,Crossover SUV,E-GMP,Yes,Hyundai,South Korea
+Hyundai Ioniq 5,2021,Crossover SUV,E-GMP[11],Yes,Hyundai,South Korea
+Hyundai Ioniq 6,2022,Sedan,E-GMP,Yes,Hyundai,South Korea
+Hyundai Ioniq 9,2025,Crossover SUV,E-GMP,Yes,Hyundai,South Korea
+Hyundai Kona Electric,2019,Crossover SUV,Hyundai-Kia K3,No,Hyundai,South Korea
+Hyundai Porter2 Electric,2019,Pickup truck,,No,Hyundai,South Korea
+Hyundai ST1,2024,Pickup truck / cab chassis,Hyundai-Kia N3,No,Hyundai,South Korea
+Isuzu D-Max EV,2025,Pickup truck,,No,Isuzu,Japan
+Iveco eJolly,2025,Van,EMP2,No,Iveco(produced byStellantis),Italy
+Iveco eMoovy,2024,Pickup truck / cab chassis,Hyundai-Kia N3,No,Iveco(produced byHyundai),Italy
+Iveco eSuperJolly,2025,Van,,No,Iveco(produced byStellantis),Italy
+Jeep Avenger,2023,Crossover SUV,eCMP / STLA Small,No,Stellantis,United States
+Jeep Wagoneer S,2024,Crossover SUV,STLA Large,Yes,Stellantis,United States
+KGM Korando e-Motion,2022,Crossover SUV,,No,KG Mobility,South Korea
+KGM Musso EV,2025,Pickup truck,,Yes,KG Mobility,South Korea
+KGM Torres EVX,2023,Crossover SUV,,No,KG Mobility,South Korea
+Kia Bongo EV,2020,Pickup truck,,No,Kia,South Korea
+Kia Carens Clavis EV,2025,Minivan,Hyundai-Kia K2 BEV,No,Kia,South Korea
+Kia EV3,2024,Crossover SUV,E-GMP,Yes,Kia,South Korea
+Kia EV4,2025,Sedan and hatchback,E-GMP,Yes,Kia,South Korea
+Kia EV5,2023,Crossover SUV,Hyundai-Kia N3 eK,Yes,Kia,South Korea
+Kia EV6,2021,Crossover SUV,E-GMP[12],Yes,Kia,South Korea
+Kia EV9,2023,Crossover SUV,E-GMP,Yes,Kia,South Korea
+Kia PV5 Cargo,2025,Van,E-GMP.S,Yes,Kia,South Korea
+Kia PV5 Passenger,2025,MPV/minivan,E-GMP.S,Yes,Kia,South Korea
+Kia Ray EV,2012,MPV/minivan,,No,Kia,South Korea
+Lancia Ypsilon,2024,Hatchback,eCMP,No,Stellantis,Italy
+Lexus ES 350e/500e,2025,Sedan,TNGA: GA-K,No,Toyota,Japan
+Lexus RZ,2022,Crossover SUV,e-TNGA,Yes,Toyota,Japan
+Lotus Eletre,2023,Crossover SUV,EPA[13],Yes,Lotus Cars,United Kingdom
+Lotus Emeya,2024,Liftback,EPA[13],Yes,Lotus Cars,United Kingdom
+Lucid Air,2021,Sedan,,Yes,Lucid Motors,United States
+Lucid Gravity,2024,Crossover SUV,,Yes,Lucid Motors,United States
+Luxgen n7,2024,Crossover SUV,Foxtron MIH,Yes,Yulon Motors,Taiwan
+Mahindra BE 6,2025,Crossover SUV,INGLO,Yes,Mahindra,India
+Mahindra XEV 9e,2025,Crossover SUV,INGLO,Yes,Mahindra,India
+Mahindra XEV 9S,2025,Crossover SUV,INGLO,Yes,Mahindra,India
+Mahindra XUV 3XO EV,2026,Crossover SUV,X100,No,Mahindra,India
+Maserati Grecale Folgore,2023,Crossover SUV,FCA Giorgio,No,Stellantis,Italy
+Maserati GranTurismo Folgore,2023,Coupé,Giorgio Sport,No,Stellantis,Italy
+Maserati GranCabrio Folgore,2024,Convertible,Giorgio Sport,No,Stellantis,Italy
+Mazda 6e,2025,Liftback,EPA1,Yes,Mazda,Japan
+Mazda MX-30,2020,Crossover SUV,e-Skyactiv,No,Mazda,Japan
+Mercedes-Benz CLA,2025,Sedan,MMA,No,Mercedes-Benz Group,Germany
+Mercedes-Benz eCitan,2022,Van,CMF-CD,No,Mercedes-Benz Group(produced byRenault),Germany
+Mercedes-Benz EQA,2021,Crossover SUV,MFA2,No,Mercedes-Benz Group,Germany
+Mercedes-Benz EQB,2021,Crossover SUV,MFA2,No,Mercedes-Benz Group,Germany
+Mercedes-Benz EQE,2022,Sedan,EVA,Yes,Mercedes-Benz Group,Germany
+Mercedes-Benz EQE SUV,2022,Crossover SUV,EVA,Yes,Mercedes-Benz Group,Germany
+Mercedes-Benz EQS,2021,Liftback,MEA,Yes,Mercedes-Benz Group,Germany
+Mercedes-Benz EQS SUV,2022,Crossover SUV,MEA,Yes,Mercedes-Benz Group,Germany
+Mercedes-Benz EQT,2023,MPV/minivan,CMF-CD,No,Mercedes-Benz Group(produced byRenault),Germany
+Mercedes-Benz EQV,2020,MPV/minivan,,No,Mercedes-Benz Group,Germany
+Mercedes-Benz eVito,2020,MPV/minivan,,No,Mercedes-Benz Group,Germany
+Mercedes-Benz eSprinter,2019,Van,,No,Mercedes-Benz Group,Germany
+Mercedes-Benz G-Class EV,2024,SUV,,No,Mercedes-Benz Group,Germany
+Mini Cooper E/SE,2023,Hatchback,,No,Mini/BMW,United Kingdom
+Mini Countryman E/SE,2023,Crossover SUV,UKL2,No,Mini/BMW,United Kingdom
+Mini Aceman,2024,Crossover SUV,,Yes,Mini/BMW,United Kingdom
+Mitsubishi eK X EV,2022,Hatchback,KEI-EV,No,NMKV,Japan
+Mitsubishi Eclipse Cross EV,2025,Crossover SUV,AmpR Medium,Yes,Mitsubishi Motors(produced byRenault),Japan
+Mitsubishi Minicab MiEV,2011,Van,,No,Mitsubishi Motors,Japan
+Moskvitch 3e,2022,Crossover SUV,,No,Moskvitch,Russia
+MAN eTGE,2018,Van,,No,MAN Truck & Bus,Germany
+Nissan Ariya,2021,Crossover SUV,AmpR Medium,Yes,Nissan,Japan
+Nissan Leaf,2010,Hatchback (2010–2025)Crossover SUV (2025–present),AmpR Medium,Yes,Nissan,Japan
+Nissan Micra EV,2025,Hatchback,AmpR Small,Yes,Nissan(produced byRenault),Japan
+Nissan Sakura,2022,Hatchback,KEI-EV,Yes,NMKV,Japan
+Nissan Townstar EV,2021,Van,CMF-CD,No,Nissan(produced byRenault),Japan
+Opel/Vauxhall Astra Electric,2023,Hatchback,EMP2 V3,No,Stellantis,Germany/United Kingdom
+Opel/Vauxhall Astra Sports Tourer Electric,2023,Station wagon,EMP2 V3,No,Stellantis,Germany/United Kingdom
+Opel/Vauxhall Combo-e,2021,Van,EMP2,No,Stellantis,Germany/United Kingdom
+Opel/Vauxhall Corsa Electric,2019,Hatchback,eCMP[14],No,Stellantis,Germany/United Kingdom
+Opel/Vauxhall Mokka-e,2020,Crossover SUV,eCMP,No,Stellantis,Germany/United Kingdom
+Opel/Vauxhall Frontera Electric,2024,Crossover SUV,Smart Car,No,Stellantis,Germany/United Kingdom
+Opel/Vauxhall Grandland Electric,2024,Crossover SUV,STLA Medium,No,Stellantis,Germany/United Kingdom
+Opel/Vauxhall Movano-e,2021,Van,,No,Stellantis,Germany/United Kingdom
+Opel/Vauxhall Vivaro/Zafira-e,2021,Van,EMP2,No,Stellantis,Germany/United Kingdom
+Peugeot e-208,2019,Hatchback,eCMP,No,Stellantis,France
+Peugeot e-2008,2020,Crossover SUV,eCMP,No,Stellantis,France
+Peugeot e-308,2022,Hatchback,EMP2 V3,No,Stellantis,France
+Peugeot e-308 SW,2022,Station wagon,EMP2 V3,No,Stellantis,France
+Peugeot e-3008,2024,Crossover SUV,STLA Medium,No,Stellantis,France
+Peugeot e-408,2024,Crossover SUV,EMP2 V3,No,Stellantis,France
+Peugeot e-5008,2024,Crossover SUV,STLA Medium,No,Stellantis,France
+Peugeot e-Boxer,2021,Van,,No,Stellantis,France
+Peugeot e-Expert/e-Traveller,2021,Van,EMP2,No,Stellantis,France
+Peugeot e-Rifter,2021,Van,EMP2,No,Stellantis,France
+Pininfarina Battista,2022,Coupé,,Yes,Automobili Pininfarina,Germany/Italy
+Perodua QV-E,2025,Crossover SUV,,Yes,Perodua,Malaysia
+Polestar 2,2020,Liftback,CMA,Yes,Volvo Cars,Sweden
+Polestar 3,2024,Crossover SUV,SPA2,Yes,Volvo Cars,Sweden
+Polestar 4,2023,Crossover SUV,SEA,Yes,Volvo Cars,Sweden
+Polytron G3,2025,Crossover SUV,Unknown,Yes,Polytron(produced bySkyworth Auto),Indonesia
+Porsche Cayenne (fourth generation),2026,Crossover SUV,PPE,Yes,Porsche,Germany
+Porsche Macan (second generation),2024,Crossover SUV,PPE,Yes,Porsche,Germany
+Porsche Taycan,2019,Sedan andshooting brake,J1,Yes,Porsche,Germany
+Proton eMas 5,2025,Hatchback,GEA,Yes,Proton(produced byGeely),Malaysia
+Proton eMas 7,2024,Crossover SUV,GEA,Yes,Proton(produced byGeely),Malaysia
+Renault 4 E-Tech,2025,Crossover SUV,AmpR Small,Yes,Renault,France
+Renault 5 E-Tech,2024,Hatchback,AmpR Small,Yes,Renault,France
+Renault Kangoo E-Tech Electric,2021,Van,CMF-CD,No,Renault,France
+Renault Kwid E-Tech,2022,Hatchback,CMFA-EV,No,Renault,France
+Renault Master Z.E./E-Tech Electric,2018,Van,,No,Renault,France
+Renault Megane E-Tech Electric,2022,Crossover SUV,AmpR Medium,Yes,Renault,France
+Renault Scenic E-Tech,2024,Crossover SUV,AmpR Medium,Yes,Renault,France
+Renault Trafic E-Tech,2021,Van,,No,Renault,France
+Rimac Nevera,2021,Coupé,,Yes,Rimac Automobili,Croatia
+Rivian EDV,2021,Van,,Yes,Rivian,United States
+Rivian R1S,2022,SUV,,Yes,Rivian,United States
+Rivian R1T,2021,Pickup truck,,Yes,Rivian,United States
+Rolls-Royce Spectre,2023,Coupé,Architecture of Luxury,Yes,Rolls-Royce,United Kingdom
+Škoda Enyaq,2020,Crossover SUV,MEB[15],Yes,Škoda Auto,Czech Republic
+Škoda Elroq,2025,Crossover SUV,MEB,Yes,Škoda Auto,Czech Republic
+Smart #1,2022,Crossover SUV,SEA2[16],Yes,Smart Automobile(produced byGeely),Germany
+Smart #3,2023,Crossover SUV,SEA2,Yes,Smart Automobile(produced byGeely),Germany
+Smart #5,2024,Crossover SUV,PMA2+,Yes,Smart Automobile(produced byGeely),Germany
+Subaru Solterra,2022,Crossover SUV,e-TNGA/e-SGP[17],Yes,Subaru(produced byToyota),Japan
+Subaru Trailseeker/E-Outback,2026,Crossover SUV,e-TNGA/e-SGP,Yes,Subaru(produced byToyota),Japan
+Subaru Uncharted,2025,Crossover SUV,e-TNGA/e-SGP,Yes,Subaru(produced byToyota),Japan
+Suzuki e Every,2026,Van,DNGA,No,Suzuki(produced byToyota),Japan
+Suzuki e Vitara,2025,Crossover SUV,Heartect-e,Yes,Suzuki,Japan
+Tata Ace EV,2022,Minitruck,,No,Tata Motors,India
+Tata Nexon.ev,2020,Crossover SUV,,No,Tata Motors Passenger Vehicles,India
+Tata Punch.ev,2024,Crossover SUV,Acti.ev,Yes,Tata Motors Passenger Vehicles,India
+Tata Harrier.ev,2024,Crossover SUV,Acti.ev,Yes,Tata Motors Passenger Vehicles,India
+Tata Curvv.ev,2024,Crossover SUV,Acti.ev,Yes,Tata Motors Passenger Vehicles,India
+Tata Tiago.ev,2022,Hatchback,,No,Tata Motors Passenger Vehicles,India
+Tata Tigor EV,2022,Sedan,,No,Tata Motors Passenger Vehicles,India
+Tesla Cybertruck,2023,Pickup,,Yes,"Tesla, Inc.",United States
+Tesla Cybercab,2026,Coupe,,Yes,"Tesla, Inc.",United States
+Tesla Model 3,2017,Sedan,Model 3,Yes,"Tesla, Inc.",United States
+Tesla Model S,2012,Liftback,Model S,Yes,"Tesla, Inc.",United States
+Tesla Model X,2015,Crossover SUV,Model S[18],Yes,"Tesla, Inc.",United States
+Tesla Model Y,2020,Crossover SUV,Model 3[19],Yes,"Tesla, Inc.",United States
+Togg T10X,2022,Crossover SUV,,Yes,Togg,Turkey
+Togg T10F,2025,Sedan,,Yes,Togg,Turkey
+Toyota bZ4X/bZ,2022,Crossover SUV,e-TNGA[20],Yes,Toyota,Japan
+Toyota bZ4X Touring/bZ Woodland,2026,Crossover SUV,e-TNGA,Yes,Toyota,Japan
+Toyota C-HR+/C-HR,2025,Crossover SUV,e-TNGA,Yes,Toyota,Japan
+Toyota Hilux BEV/Travo-e,2026,Pickup,Toyota IMV,No,Toyota,Japan
+Toyota Pixis BEV,2026,Van,DNGA,No,Toyota,Japan
+Toyota Proace City Electric,2021,Van,EMP2,No,Toyota(produced byStellantis),Japan
+Toyota Proace Electric,2021,Van,EMP2,No,Toyota(produced byStellantis),Japan
+Toyota Proace Max Electric,2023,Van,,No,Toyota(produced byStellantis),Japan
+Toyota Urban Cruiser/Urban Cruiser Ebella,2025,Crossover SUV,Heartect-e,Yes,Toyota(produced bySuzuki),Japan
+VinFast EC Van,2025,Van,,Yes,VinFast,Vietnam
+VinFast Limo Green,2025,MPV/minivan,,Yes,VinFast,Vietnam
+VinFast Minio Green,2025,Hatchback,,Yes,VinFast,Vietnam
+VinFast VF e34,2021,Crossover SUV,,Yes,VinFast,Vietnam
+VinFast VF 3,2024,Crossover SUV,,Yes,VinFast,Vietnam
+VinFast VF 5,2023,Crossover SUV,,Yes,VinFast,Vietnam
+VinFast VF 6,2024,Crossover SUV,,Yes,VinFast,Vietnam
+VinFast VF 7,2024,Crossover SUV,,Yes,VinFast,Vietnam
+VinFast VF 8,2022,Crossover SUV,,Yes,VinFast,Vietnam
+VinFast VF 9,2023,Crossover SUV,,Yes,VinFast,Vietnam
+Volkswagen e-Caravelle,2024,MPV/minivan,Ford Pro,No,Volkswagen Commercial Vehicles(produced byFord),Germany
+Volkswagen e-Crafter,2018,Van,,No,Volkswagen Commercial Vehicles,Germany
+Volkswagen e-Transporter,2024,Van,Ford Pro,No,Volkswagen Commercial Vehicles(produced byFord),Germany
+Volkswagen ID.3,2020,Hatchback,MEB,Yes,Volkswagen,Germany
+Volkswagen ID.4,2020,Crossover SUV,MEB,Yes,Volkswagen,Germany
+Volkswagen ID.5,2022,Crossover SUV,MEB,Yes,Volkswagen,Germany
+Volkswagen ID.7,2023,Liftback,MEB,Yes,Volkswagen,Germany
+Volkswagen ID.7 Tourer,2024,Station Wagon,MEB,Yes,Volkswagen,Germany
+Volkswagen ID. Buzz,2022,MPV/minivan,MEB,Yes,Volkswagen,Germany
+Volkswagen ID. Buzz Cargo,2022,Van,MEB,Yes,Volkswagen,Germany
+Volvo EC40(formerly C40 Recharge),2021,Crossover SUV,CMA,No,Volvo Cars,Sweden
+Volvo ES90,2025,Liftback,SPA2,Yes,Volvo Cars,Sweden
+Volvo EX30,2023,Crossover SUV,SEA,Yes,Volvo Cars,Sweden
+Volvo EX40(formerly XC40 Recharge),2020,Crossover SUV,CMA,No,Volvo Cars,Sweden
+Volvo EX90,2024,Crossover SUV,SPA2,Yes,Volvo Cars,Sweden
