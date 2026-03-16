@@ -68,27 +68,38 @@ Output: [data/company_intelligence.csv](./data/company_intelligence.csv)
 
 ## 📈 Excel Analysis
 
-The dataset was analyzed in Excel using pivot tables.
+The processed dataset was imported into Excel for further analysis using pivot tables and charts.
 
 Analysis performed:
 
-- Companies by country
-- Models per company
-- Top manufacturers
-- Industry distribution
+- Companies by country (geographic distribution)
+- Number of models per company
+- Top EV manufacturers by model count
+- Summary statistics of the dataset
 
-Excel file: [analysis/company_intelligence.xlsx](./analysis/company_intelligence.xlsx)
+Excel file: [analysis/market_analysis.xlsx](./analysis/market_analysis.xlsx)
 
 ## 📊 Visualizations
 
-Charts created in Excel:
+Charts were created in Excel to present the analysis in a clear and report-style format.
 
-- Bar chart – companies by country
-- Column chart – models per company
-- Top manufacturers
-- Industry distribution
+Visualizations include:
 
-This simulates real business reporting.
+- Bar chart – EV companies by country
+- Horizontal bar chart – number of models per manufacturer
+- Top manufacturers chart (Top 10 companies)
+- Summary metrics for dataset overview
+
+These visualizations simulate real-world business reporting and market analysis workflows.
+
+## 📑 Report Summary
+
+Key insights from the analysis:
+
+- Japan, Germany, and the United States have the highest number of EV manufacturers in the dataset.
+- Stellantis, General Motors, and Mercedes-Benz Group have the highest number of EV models.
+- The dataset contains over 150 vehicle models across more than 60 manufacturers.
+- Excel pivot tables were used to generate structured reports similar to real business analytics tasks.
 
 ## ▶ How to Run
 
