@@ -29,8 +29,9 @@ The project demonstrates the complete data pipeline from **data collection → c
 
 Data was collected from Wikipedia using a Python web scraping script.
 
-Script: `scripts/web_scraper.py`
-Output: `data/raw_companies.csv`
+Script: [scripts/web_scraper.py](./scripts/web_scraper.py)
+
+Output: [data/raw_companies.csv](./data/raw_companies.csv)
 
 This step demonstrates:
 
@@ -49,8 +50,9 @@ Tasks performed:
 - Standardized manufacturer names
 - Prepared structured dataset
 
-Script: `scripts/data_cleaning.py`
-Output: `data/cleaned_companies.csv`
+Script: [scripts/data_cleaning.py](./scripts/data_cleaning.py)
+
+Output: [data/cleaned_companies.csv](./data/cleaned_companies.csv)
 
 ## 🏢 Company Intelligence Dataset
 
@@ -62,7 +64,7 @@ Metrics created:
 - Country distribution
 - Industry classification
 
-Output: `data/company_intelligence.csv`
+Output: [data/company_intelligence.csv](./data/company_intelligence.csv)
 
 ## 📈 Excel Analysis
 
@@ -75,7 +77,7 @@ Analysis performed:
 - Top manufacturers
 - Industry distribution
 
-Excel file: `analysis/market_analysis.xlsx`
+Excel file: [analysis/company_intelligence.xlsx](./analysis/company_intelligence.xlsx)
 
 ## 📊 Visualizations
 
