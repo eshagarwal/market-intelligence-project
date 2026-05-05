@@ -23,7 +23,6 @@ The project demonstrates the complete data pipeline from **data collection → c
 - BeautifulSoup
 - Excel
 - CSV
-- Git / GitHub
 
 ## 📥 Data Collection
 
